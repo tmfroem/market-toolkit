@@ -57,7 +57,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 ---
 **<a id="getting-started"></a>GETTING STARTED:**
 
-There are two general approaches to investing: active and passive. Active investing implies you are actively buying and selling stocks, bonds, options and so on, conducting research and making active decisions about the investments you make. Passive investing implies you are more disconnected from the market, passively investing money into mutual funds, ETFs, IRAs, 401Ks and allowing the managers of those funds to manage those investments, not focusing on individual stocks, or you may have hired a financial advisor or wealth manager. Neither approach will make you rich quickly. Using active approaches you are very likely to lose money as a beginner. Active investing takes a large amount of work and research and most people will not beat the market's returns over the long term. If you are brand new, it's best to start with passive approaches while you get your feet wet and learn about more active strategies, and gradually work towards becoming more and more active. 
+There are two general approaches to investing: active and passive. Active investing implies you are actively buying and selling stocks, bonds, options and so on, conducting research and making active decisions about the investments you make. Passive investing implies you are more disconnected from the market, passively investing money into mutual funds, ETFs, IRAs, 401Ks and allowing the managers of those funds to manage those investments, not focusing on individual stocks, or you may have hired a financial advisor or wealth manager. Neither approach will make you rich quickly. Using active approaches you are very likely to lose money as a beginner. Active investing takes a large amount of work and research and most people will not beat the market's returns over the long term. If you are brand new, it's best to start with passive approaches while you get your feet wet and learn about more active strategies, and gradually work towards becoming more and more active.
 
 - **[Investopedia - How to Start Investing in Stocks](https://www.investopedia.com/articles/basics/06/invest1000.asp)**
 - [Fundamentals of Active Trading](https://youtu.be/TprZoVbfZ18)
@@ -129,6 +129,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [IPOScoop - Lots of handy info on IPOs](https://www.iposcoop.com/)
 - [Stockrow - News, Fundamental Data and Screeners](https://www.stockrow.com/)
 - [Stock Analysis - Free Online Stock Information for Investors](https://www.stockanalysis.com/)
+- [StockComps - Compare Investment Returns](https://www.stockcomps.com/)
 - **[BioPharmCatalyst - Biotech-Specific Research](https://www.biopharmcatalyst.com/)**
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [The Ultimate Investing Checklist](https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/)
@@ -342,7 +343,7 @@ There are two general approaches to investing: active and passive. Active invest
 	- [The Predators' Ball: The Inside Story of Drexel Burnham and the Rise of the JunkBond](https://www.amazon.com/Predators-Ball-Inside-Burnham-Raiders/dp/1982144262/)
 	- [The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron](https://www.amazon.com/Smartest-Guys-Room-Amazing-Scandalous/dp/1591846609/)
 	- [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259/)
-	
+
 ###### [TOC](#toc)
 - <a id="books-options"></a>Options
 	- [Option Volatility and Pricing: Advanced Trading Strategies and Techniques](amazon.com/Option-Volatility-Pricing-Strategies-Techniques-ebook/dp/B00O2A7HMS/)
